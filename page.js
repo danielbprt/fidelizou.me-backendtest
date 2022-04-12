@@ -6,7 +6,7 @@ const users = [];
 const link = [(Math.random() + 1).toString(20).substring(7)];
 app.get("", (req, res) =>
 {
-    res.send("qualquer coisa");
+    res.send("ok");
 })
 
 app.get("/register", (req, res) =>
