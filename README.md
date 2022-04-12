@@ -1,1 +1,1 @@
-# fidelizou.me-backendtest
+Esse projeto foi feito sem nenhum conhecimento prévio das tecnologias utilizadas, o resultado obtido, apesar de não ter cumprido com todos os requisitos, foi obtido através de muita pesquisa e estudo.
