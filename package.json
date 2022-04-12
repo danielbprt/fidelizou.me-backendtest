@@ -1,0 +1,18 @@
+{
+  "name": "backend-test",
+  "version": "1.0.0",
+  "description": "fidelizou.me backend test",
+  "main": "page.js",
+  "scripts": {
+    "start": "node page.js",
+    "test": "test"
+  },
+  "author": "Daniel Barbosa Pereira",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "express": "^4.17.3",
+    "mysql2": "^2.3.3",
+    "uuid": "^8.3.2"
+  }
+}
